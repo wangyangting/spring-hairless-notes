@@ -1,2 +1,2 @@
-# spring-hairless-notes
+# Spring Hairless Notes
 Spring Hairless Notes
