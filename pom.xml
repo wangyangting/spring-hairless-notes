@@ -6,8 +6,8 @@
 
     <groupId>com.github.hairless</groupId>
     <artifactId>spring-hairless-notes</artifactId>
-    <packaging>pom</packaging>
     <version>0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <name>spring-hairless-notes</name>
     <description>spring-hairless-notes</description>
@@ -21,6 +21,7 @@
     <modules>
         <module>spring-guides</module>
         <module>spring-guides/gs-rest-service</module>
+        <module>spring-guides/gs-consuming-rest</module>
     </modules>
 
     <properties>
