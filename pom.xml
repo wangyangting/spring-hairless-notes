@@ -22,6 +22,7 @@
         <module>spring-guides</module>
         <module>spring-guides/gs-rest-service</module>
         <module>spring-guides/gs-consuming-rest</module>
+        <module>spring-guides/gs-scheduling-tasks</module>
     </modules>
 
     <properties>
