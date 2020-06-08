@@ -12,4 +12,8 @@
     <artifactId>spring-guides</artifactId>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>gs-caching</module>
+    </modules>
+
 </project>
