@@ -12,7 +12,7 @@
 
     <artifactId>gs-relational-data-access</artifactId>
 
-    <name>relational-data-access</name>
+    <name>gs-relational-data-access</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>

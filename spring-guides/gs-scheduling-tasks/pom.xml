@@ -12,7 +12,7 @@
 
     <artifactId>gs-scheduling-tasks</artifactId>
 
-    <name>scheduling-tasks</name>
+    <name>gs-scheduling-tasks</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>

@@ -12,7 +12,7 @@
 
     <artifactId>gs-caching</artifactId>
 
-    <name>caching</name>
+    <name>gs-caching</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
