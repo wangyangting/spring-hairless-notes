@@ -13,7 +13,11 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>gs-rest-service</module>
+        <module>gs-consuming-rest</module>
+        <module>gs-scheduling-tasks</module>
         <module>gs-caching</module>
+        <module>gs-relational-data-access</module>
     </modules>
 
 </project>
