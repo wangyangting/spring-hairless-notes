@@ -7,3 +7,4 @@ Spring Hairless Notes
 3. [简单的调度任务](docs/spring-guides/gs-consuming-rest.md)
 4. [Spring 中 Caching（缓存）数据](docs/spring-guides/gs-caching.md)
 5. [使用 Spring JDBC 访问数据](docs/spring-guides/gs-relational-data-access.md)
+6. [使用 Spring Boot 来构建应用](docs/spring-guides/gs-spring-boot.md)

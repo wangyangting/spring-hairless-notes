@@ -18,6 +18,7 @@
         <module>gs-scheduling-tasks</module>
         <module>gs-caching</module>
         <module>gs-relational-data-access</module>
+        <module>gs-spring-boot</module>
     </modules>
 
 </project>
