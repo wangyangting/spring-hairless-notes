@@ -19,6 +19,7 @@
         <module>gs-caching</module>
         <module>gs-relational-data-access</module>
         <module>gs-spring-boot</module>
+        <module>gs-accessing-data-jpa</module>
     </modules>
 
 </project>
