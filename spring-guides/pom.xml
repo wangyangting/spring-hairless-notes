@@ -21,6 +21,7 @@
         <module>gs-spring-boot</module>
         <module>gs-accessing-data-jpa</module>
         <module>gs-accessing-data-mysql</module>
+        <module>gs-async-method</module>
     </modules>
 
 </project>
