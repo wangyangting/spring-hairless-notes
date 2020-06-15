@@ -11,3 +11,4 @@ Spring Hairless Notes
 7. [使用 Spring JPA 访问数据](docs/spring-guides/gs-accessing-data-jpa.md)
 8. [使用 Spring JPA 访问 Mysql 中的数据](docs/spring-guides/gs-accessing-data-mysql.md)
 9. [异步方法的使用](docs/spring-guides/gs-async-method.md)
+10. [管理事务](docs/spring-guides/gs-managing-transactions.md)
