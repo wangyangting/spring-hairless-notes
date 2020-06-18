@@ -13,3 +13,4 @@ Spring Hairless Notes
 9. [异步方法的使用](docs/spring-guides/gs-async-method.md)
 10. [管理事务](docs/spring-guides/gs-managing-transactions.md)
 11. [使用 Spring Restdocs 生成文档](docs/spring-guides/gs-testing-restdocs.md)
+12. [Spring Boot 集成 Docker](docs/spring-guides/gs-spring-boot-docker.md)

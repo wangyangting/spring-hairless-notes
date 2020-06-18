@@ -24,6 +24,7 @@
         <module>gs-async-method</module>
         <module>gs-managing-transactions</module>
         <module>gs-testing-restdocs</module>
+        <module>gs-spring-boot-docker</module>
     </modules>
 
 </project>
