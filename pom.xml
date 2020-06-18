@@ -29,6 +29,8 @@
         <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
         <projectlombok.version>1.18.12</projectlombok.version>
         <mysql.version>8.0.20</mysql.version>
+        <spring-restdocs-mockmvc.version>2.0.4.RELEASE</spring-restdocs-mockmvc.version>
+        <junit.version>5.6.2</junit.version>
     </properties>
 
     <dependencyManagement>
@@ -62,6 +64,13 @@
                 </exclusions>
             </dependency>
 
+            <!-- spring restdocs -->
+            <dependency>
+                <groupId>org.springframework.restdocs</groupId>
+                <artifactId>spring-restdocs-mockmvc</artifactId>
+                <version>${spring-restdocs-mockmvc.version}</version>
+            </dependency>
+
             <!-- mysql -->
             <dependency>
                 <groupId>mysql</groupId>
@@ -74,6 +83,13 @@
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
                 <version>${projectlombok.version}</version>
+            </dependency>
+
+            <!-- junit -->
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-api</artifactId>
+                <version>${junit.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

@@ -23,6 +23,7 @@
         <module>gs-accessing-data-mysql</module>
         <module>gs-async-method</module>
         <module>gs-managing-transactions</module>
+        <module>gs-testing-restdocs</module>
     </modules>
 
 </project>
